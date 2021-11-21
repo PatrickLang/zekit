@@ -1,8 +1,8 @@
 
 
 Take your pick of:
-
-- Full Integrated Development Environment: [MPLab X](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide) 
+- Required [MPLab XC Compiler](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-xc-compilers) - be sure to install the 16 bit version
+- Optional: [MPLab X](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-x-ide) integrated development environment
 
 In-circuit programming has been tested with:
 
@@ -24,4 +24,3 @@ Is this viable, or does it too slow to run the oscillators?
 
 ## Other Notes
 
-- Compilers Only: [MPLab XC Compiler](https://www.microchip.com/en-us/development-tools-tools-and-software/mplab-xc-compilers)
